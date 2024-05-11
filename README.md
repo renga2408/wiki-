@@ -1,4 +1,4 @@
-# wiki-chatbot uesing cnns
+# wiki-chatbot using cnns
 **Overview**
 
 This project aims to develop a chatbot using Convolutional Neural Networks (CNNs) to interact with users and provide information sourced from a Wiki-like knowledge base.
@@ -17,7 +17,7 @@ Interactive Interface: Users can interact with the chatbot through a user-friend
 
 _Clone the repository:_
 
-git clone https://github.com/your-username/wiki-chatbot-cnn.git
+git clone _**https://github.com/renga2408/WIKI-CHATBOT-USING-CNNs**_
 
 _Install dependencies:_
 
